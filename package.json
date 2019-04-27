@@ -1,0 +1,25 @@
+{
+  "name": "matelas",
+  "version": "0.0.1",
+  "description": "Bank of example apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MattixNow/matelas.git"
+  },
+  "keywords": [
+    "matelas",
+    "bank",
+    "example",
+    "apps"
+  ],
+  "author": "Mattèo Gauthier (MattixNow)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MattixNow/matelas/issues"
+  },
+  "homepage": "https://github.com/MattixNow/matelas#readme"
+}
