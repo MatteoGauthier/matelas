@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MattixNow/matelas.git"
+    "url": "git+https://github.com/MatteoGauthier/matelas.git"
   },
   "keywords": [
     "matelas",
@@ -16,10 +16,10 @@
     "example",
     "apps"
   ],
-  "author": "Mattèo Gauthier (MattixNow)",
+  "author": "Mattèo Gauthier <matteo.gauthier@gmail.com> (https://xn--matto-7ra.dev/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MattixNow/matelas/issues"
+    "url": "https://github.com/MatteoGauthier/matelas/issues"
   },
-  "homepage": "https://github.com/MattixNow/matelas#readme"
+  "homepage": "https://github.com/MatteoGauthier/matelas#readme"
 }
